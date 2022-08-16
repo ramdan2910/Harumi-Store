@@ -148,9 +148,8 @@ ${readmore}
  • ${prefix}sewa *add/del*
  
  *THANKS TO*
- ➢ Christian ID
- ➢ Nc Tech
- ➢ Irfan / Riyan
+ ➢ Allah SWT.
  ➢ Ramdan ID
+ ➢ Pengembang Bot
 `
 }
