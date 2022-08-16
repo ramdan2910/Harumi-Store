@@ -24,7 +24,7 @@ function toCommas(x) {
 exports.allmenu = (sender, prefix, pushname, isOwner, isPremium, balance, limit, limitCount, glimit, gcount) => {
 	return `${ucapanWaktu} @${sender.split('@')[0]} 👋
 	
- *INFO BOT*
+ *INFO HARUMI BOT*
  👑 Creator : ${setting.ownerName}
  🤖 Bot Name : ${setting.botName}
  📆 Tanggal : ${tanggal}
@@ -151,5 +151,6 @@ ${readmore}
  ➢ Christian ID
  ➢ Nc Tech
  ➢ Irfan / Riyan
+ ➢ Ramdan ID
 `
 }
